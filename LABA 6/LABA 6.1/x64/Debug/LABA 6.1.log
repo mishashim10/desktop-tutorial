@@ -1,0 +1,5 @@
+﻿  LABA 6.1.cpp
+  array.cpp
+D:\LABA 6.1\array.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  LABA 6.1.vcxproj -> D:\LABA 6.1\x64\Debug\LABA 6.1.exe
